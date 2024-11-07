@@ -1,9 +1,7 @@
 # Module 1 
 # Domain Knowledge of SCA
+
      
-# Supply Chain Management and Analytics Project
-
-
 ## Overview
 Welcome to this repository! This README provides an overview of the work and research focused on **Supply Chain Management (SCM)** and **Supply Chain Analytics (SCA)**. It outlines key concepts, methodologies, and tools used to enhance efficiency and decision-making in supply chains.
 
